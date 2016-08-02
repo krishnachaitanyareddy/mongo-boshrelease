@@ -5,8 +5,8 @@ MongoDB bosh release. See also: [cf-mongo-broker](https://github.com/Anatas/cf-m
 ## Usage
 
 ```
-git clone https://github.com/Anatas/sm-mongo-boshrelease.git
-cd sm-mongo-boshrelease
+git clone https://github.com/ANATAS/mongo-boshrelease.git
+cd mongo-boshrelease
 ```
 
 You may want to start by editing templates/properties.yml. Next upload it to your bosh:
